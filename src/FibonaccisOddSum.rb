@@ -1,6 +1,6 @@
 =begin
 	*
-	* Returns the sum of all odd Fibonacci numbers upto and including the passed number
+	* Returns the sum of all odd Fibonacci numbers up to and including the passed number
 	* if it is a Fibonacci number. As an example, passing 4 to the function should returns
 	* 5 because all the odd Fibonacci numbers under 4 are 1, 1, and 3.
 	*
@@ -31,7 +31,7 @@ end
 
 num = 0;
 
-puts "\n* Returns the sum of all odd Fibonacci numbers upto and including the passed number"
+puts "\n* Returns the sum of all odd Fibonacci numbers up to and including the passed number"
 puts "* if it is a Fibonacci number. As an example, passing 4 to the function should returns"
 puts "* 5 because all the odd Fibonacci numbers under 4 are 1, 1, and 3."
 
