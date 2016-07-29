@@ -6,7 +6,7 @@ I decided to write some algorithms in Ruby to gain experience :smiley:.<br>
 - [ ] 4 Algorithms.
 - [ ] 8 Algorithms.
 
-**Completed Algorithms: 2**
+**Completed Algorithms: 3**
 
 ---------------------------------------------------------
 
@@ -19,3 +19,6 @@ I decided to write some algorithms in Ruby to gain experience :smiley:.<br>
 > Returns the sum of all odd Fibonacci numbers up to and including the passed number 
 > if it is a Fibonacci number. As an example, passing 4 to the function should returns 
 > 5 because all the odd Fibonacci numbers under 4 are 1, 1, and 3.
+
+### Factorial :arrows_clockwise:
+> Returns the factorial of the provided integer.
