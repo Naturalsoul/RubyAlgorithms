@@ -11,3 +11,11 @@ def getFactorial(n)
 
 	return n * getFactorial(n - 1)
 end
+
+n = 0
+
+puts "\nReturns the factorial of the provided integer."
+puts "Enter a number:"
+n = gets
+
+puts "Result: #{getFactorial(n.to_i)}"
