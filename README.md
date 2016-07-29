@@ -3,10 +3,10 @@ I decided to write some algorithms in Ruby to gain experience :smiley:.<br>
 
 #### Achievements
 - [x] 2 Algorithms.
-- [ ] 4 Algorithms.
+- [x] 4 Algorithms.
 - [ ] 8 Algorithms.
 
-**Completed Algorithms: 3**
+**Completed Algorithms: 4**
 
 ---------------------------------------------------------
 
@@ -22,3 +22,7 @@ I decided to write some algorithms in Ruby to gain experience :smiley:.<br>
 
 ### Factorial :arrows_clockwise:
 > Returns the factorial of the provided integer.
+
+### HTML Entries Converter :page_facing_up:
+> Converts the characters &, <, >, " (double quote), and ' (apostrophe), 
+> in a string to their corresponding HTML entities.
